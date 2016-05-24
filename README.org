@@ -10,6 +10,7 @@
 - [[https://github.com/capitaomorte/yasnippet/commits?author=xiaohanyu][yasnippet]]
 - [[https://github.com/swank-js/swank-js/commits?author=xiaohanyu][swank-js]]
 - [[https://github.com/milkypostman/melpa/commits?author=xiaohanyu][melpa]]
+- [[https://github.com/syl20bnr/spacemacs/commits/develop?author=xiaohanyu][spacemacs]]
 
 ** Python
 - [[https://github.com/openstack/horizon/commits?author=xiaohanyu][horizon]]
