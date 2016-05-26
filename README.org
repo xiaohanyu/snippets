@@ -19,6 +19,7 @@
 - [[https://github.com/openstack/django_openstack_auth/commits?author=xiaohanyu][django_openstack_auth]]
 - [[https://github.com/quokkaproject/quokka/commits?author=xiaohanyu][quokka]]
 - [[https://github.com/mrjoes/flask-admin/commits?author=xiaohanyu][flask-admin]]
+- [[https://github.com/tomchristie/django-rest-framework/commits?author=xiaohanyu][django-rest-framework]]
 
 ** JavaScript
 - [[https://github.com/jshttp/mime-db/commits?author=xiaohanyu][mime-db]]
