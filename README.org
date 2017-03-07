@@ -1,3 +1,7 @@
+** Algorithms
+
+- [[https://github.com/liuxinyu95/AlgoXY/commits?author=xiaohanyu][AlgoXY]]
+
 ** Emacs
 
 - [[https://github.com/dimitri/el-get/commits?author=xiaohanyu][el-get]]
@@ -14,6 +18,7 @@
 - [[https://github.com/buzztaiki/lice-el/commits?author=xiaohanyu][lice-el]]
 
 ** Python
+
 - [[https://github.com/openstack/horizon/commits?author=xiaohanyu][horizon]]
 - [[https://github.com/testing-cabal/testtools/commits?author=xiaohanyu][testtools]]
 - [[https://github.com/openstack/python-novaclient/commits?author=xiaohanyu][python-novaclient]]
@@ -23,7 +28,9 @@
 - [[https://github.com/tomchristie/django-rest-framework/commits?author=xiaohanyu][django-rest-framework]]
 
 ** JavaScript
+
 - [[https://github.com/jshttp/mime-db/commits?author=xiaohanyu][mime-db]]
 
 ** Miscs
+
 - [[https://github.com/chenryn/kibana-guide-cn/commits?author=xiaohanyu][kibana-guide-cn]]
