@@ -19,7 +19,7 @@
 
 ** Python
 
-- [[https://github.com/airbnb/superset/commits/master?author=xiaohanyu][airbnb/superset]]
+- [[https://github.com/apache/incubator-superset/commits/master?author=xiaohanyu][apache/incubator-superset]]
 - [[https://github.com/dpgaspar/Flask-AppBuilder/commits?author=xiaohanyu][Flask-AppBuilder]]
 - [[https://github.com/openstack/horizon/commits?author=xiaohanyu][horizon]]
 - [[https://github.com/testing-cabal/testtools/commits?author=xiaohanyu][testtools]]
